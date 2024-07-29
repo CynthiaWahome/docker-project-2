@@ -9,7 +9,7 @@ This project provides a step-by-step guide for installing Docker on an Amazon EC
 ## Prerequisites
 
 - An AWS account with IAM credentials.
-- An EC2 instance (e.g., `whizlabs-docker`) running Amazon Linux.
+- An EC2 instance running Amazon Linux.
 
 ## Steps
 
